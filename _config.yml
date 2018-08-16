@@ -1,0 +1,52 @@
+title: NLPH
+email: contact@nlph.org.il
+description: 'The Open Natural Language Processing in Hebrew Initative'
+url: 'https://nlph.org.il'
+twitter_username: NLPHproject
+github_username: NLPH
+future: true
+excerpt_separator: '---'
+gems:
+    - jekyll-redirect-from
+    - jekyll-sitemap
+    - jekyll-seo-tag
+    - jekyll-feed
+    - jemoji
+sass:
+    style: compressed
+collections:
+    docs: {output: true, permalink: '/docs/:path/'}
+defaults:
+    - {scope: {type: docs}, values: {layout: docs}}
+    - {scope: {type: posts}, values: {layout: post, permalink: '/blog/:year/:month/:day/:title'}}
+    - {scope: {path: ""}, values: {image: {path: /images/opengraph.png, width: 1200, height: 630}}}
+exclude:
+    - node_modules
+    - README.md
+    - LICENSE.md
+    - CNAME
+    - Gemfile
+    - Gemfile.lock
+    - Gruntfile.js
+    - package.json
+    - script
+    - spec
+include:
+    - _pages
+google_site_verification: eOAFtDphTbbm4OPKva2d3Z0Z_2bBxWMGdkD0IRQ6VeA
+twitter:
+    username: NLPHproject
+logo: /images/opengraph.png
+
+# github.com/untra/polyglot
+languages:
+  - en
+default_lang: en
+exclude_from_localization:
+  - bower_components
+  - css
+  - images
+  - js
+  - lib
+  - script
+parallel_localization: true
