@@ -1,4 +1,4 @@
-tagline: |
+tagline: |+
     The Initiative for 
     Open Natural Language Processing in Hebrew
 
@@ -42,7 +42,7 @@ benefits:
 
 get_started:
   title: How Can I Help?
-  description: |
+  description: |-
       (1) Help expand our list of resources for NLP in Hebrew!
       (2) If you are associated with an organization that already has good, working solutions for some of the problems we are interested in, and you'd like to consider sharing those solutions (or a subset thereof) in a suitable open license, we'd love to hear from you!
       (3) Join our Facebook group and/or mailing list, for updates and for opportunities to contribure!
