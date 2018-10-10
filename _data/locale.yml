@@ -16,20 +16,19 @@ electron_is_easy:
       Our vision is to bring Natural Language Processing capabilities in Hebrew to a level on par with international industry standards, keeping up with state-of-the-art techniques by providing open source implementations to new algorithms and tools, and making these capabilities publicly available for both public and commercial use.
 
 web_technologies:
-  title: An online community
+  title: Online community
   description:
-	Our activity is done online, through our Facebook group, GitHub organization and small teams working on high-impact projects.
+      Our activity is done online, through our Facebook group, GitHub organization and small teams working on high-impact projects.
 
 open_source:
   title: Open Source
   description:
-	NLPH is open source by agenda, and we make sure all resources and code we help release are made available under permissive open source or open data licenses.
+      NLPH is open source by agenda, and we make sure all resources and code we help release are made available under permissive open source or open data licenses.
 
 cross_platform:
-  title: 
+  title: Resource-focused
   description:
-    Compatible with Mac, Windows, and Linux, Electron apps build and run on
-    three platforms.
+      We focus our limited resources on the release of existing closed projects and datasets.
 
 benefits:
   # hard_parts_made_easy: The Community Tagging Project
