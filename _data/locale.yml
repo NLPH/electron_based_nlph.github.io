@@ -2,12 +2,12 @@ tagline: The Initiative for |
     Open Natural Language Processing in Hebrew
 
 nav:
-  # docs: Docs
-  # blog: Blog
-  # community: Community
-  # apps: Apps
-  # userland: Userland
-  # releases: Releases
+  docs: Docs
+  blog: Blog
+  community: Community
+  apps: Apps
+  userland: Userland
+  releases: Releases
   projects: Projects
   contact: Contact
 
@@ -70,13 +70,13 @@ get_started:
 
 need_help:
   title: Need Help?
-  description: Ask questions in our <a href='https://www.facebook.com/groups/157877988136954/'>Facebook group</a>. Need to privately reach out? Email <a href="mailto:contact@blph.org.il">contact@nlph.org.il</a>.
+  description: Ask questions on our <a href='https://www.facebook.com/groups/157877988136954/'>Facebook group</a>. Need to privately reach out? Email <a href="mailto:contact@blph.org.il">contact@nlph.org.il</a>.
 
 apps:
   title: Our Partners & Sponsors
   description:
       NLPH is a joint initiative of several organizations.
   # view_more: Contact us
-  submit_your_own: sponsor us
+  submit_your_own: Sponsor us
 
 # or: or
