@@ -70,7 +70,7 @@ get_started:
 
 need_help:
   title: Need Help?
-  description: Ask questions in our <a href='https://www.facebook.com/groups/157877988136954/'>Facebooki group</a>. Need https://discuss.atom.io/c/electronto privately reach out? Email <a href="contact@blph.org.il">contact@nlph.org.il</a>.
+  description: Ask questions in our <a href='https://www.facebook.com/groups/157877988136954/'>Facebook group</a>. Need to privately reach out? Email <a href="mailto:contact@blph.org.il">contact@nlph.org.il</a>.
 
 apps:
   title: Our Partners & Sponsors
