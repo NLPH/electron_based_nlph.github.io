@@ -42,53 +42,42 @@ get_started:
   title: How Can I Help?
   description:
     <ul>
-        <li>Coffee</li>
-        <li>Tea</li>
-        <li>Milk</li>
+        <li>Help expand our list of resources for NLP in Hebrew!</li>
+        <li>If you are associated with an organization that already has good, working solutions for some of the problems we are interested in, and you'd like to consider sharing those solutions (or a subset thereof) in a suitable open license, we'd love to hear from you!<\li>
+        <li>Join our Facebook group and/or mailing list, for updates and for opportunities to contribure!</li>
     </ul>
-    The <a href="https://github.com/electron/electron-api-demos">Electron API Demos app</a>
-    interactively demonstrates the most important features of the Electron API.
-    See what's possible with Electron with sample code and helpful tips for
-    building your app.
-    To get started with Electron, check out the resources below. Learn how
-    to wrap your web app with Electron, access all the APIs, and generate
-    installers.
 
-explore:
-  title: Explore the Electron APIs
-  description:
-    The <a href="https://github.com/electron/electron-api-demos">Electron API Demos app</a>
-    interactively demonstrates the most important features of the Electron API.
-    See what's possible with Electron with sample code and helpful tips for
-    building your app.
+# explore:
+#   title: Explore the Electron APIs
+#   description:
+#     The <a href="https://github.com/electron/electron-api-demos">Electron API Demos app</a>
+#     interactively demonstrates the most important features of the Electron API.
+#     See what's possible with Electron with sample code and helpful tips for
+#     building your app.
 
-download_from_github: Download from GitHub
-view_all_releases_on_github: <a href="https://github.com/electron/electron-api-demos/releases">View all releases</a> on GitHub
+# download_from_github: Download from GitHub
+# view_all_releases_on_github: <a href="https://github.com/electron/electron-api-demos/releases">View all releases</a> on GitHub
 
-quick_start:
-  title:
-    "Spin up the
-    <a href='https://github.com/electron/electron-quick-start' target='_blank' rel='noopener'>Quick Start</a>
-    app to see Electron in action:"
-  description: A minimal Electron app with helpful notations.
-  clone: Clone the Quick Start repository
-  go_into_repo: Go into the repository
-  install_deps: Install the dependencies and run
-  dive_deeper: Or dive deeper and read the <a href='https://electron.atom.io/docs/'>documentation</a>.
+# quick_start:
+#   title:
+#     "Spin up the
+#     <a href='https://github.com/electron/electron-quick-start' target='_blank' rel='noopener'>Quick Start</a>
+#     app to see Electron in action:"
+#   description: A minimal Electron app with helpful notations.
+#   clone: Clone the Quick Start repository
+#   go_into_repo: Go into the repository
+#   install_deps: Install the dependencies and run
+#   dive_deeper: Or dive deeper and read the <a href='https://electron.atom.io/docs/'>documentation</a>.
 
 need_help:
   title: Need Help?
-  description: Ask questions in the <a href='https://discuss.atom.io/c/electron'>Discuss</a> forum or our <a href='http://atom-slack.herokuapp.com/'>Slack</a> channel. Follow <a href="https://twitter.com/ElectronJS">@ElectronJS</a> on Twitter for important announcements. Need to privately reach out? Email <a href="mailto:electron@github.com">electron@github.com</a>.
+  description: Ask questions in our <a href='https://www.facebook.com/groups/157877988136954/'>Facebooki group</a>. Need https://discuss.atom.io/c/electronto privately reach out? Email <a href="contact@blph.org.il">contact@nlph.org.il</a>.
 
 apps:
-  title: Apps built on Electron
+  title: Our Partners & Sponsors
   description:
-    With Electron, creating a desktop application for your company or idea is
-    easy. Initially developed for GitHub's
-    <a href='https://atom.io' target='_blank' rel='noopener'>Atom editor</a>, Electron has
-    since been used to create applications by companies like Microsoft,
-    Facebook, Slack, and Docker.
-  view_more: View more apps
-  submit_your_own: submit your own
+      NLPH is a joint initiative of several organizations.
+  # view_more: Contact us
+  submit_your_own: sponsor us
 
-or: or
+# or: or
