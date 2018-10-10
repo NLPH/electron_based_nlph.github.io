@@ -1,52 +1,56 @@
-tagline: Build cross platform desktop apps with JavaScript, HTML, and CSS
+tagline: NLPH: The Initiative for Open Natural Language Processing in Hebrew
 
 nav:
-  docs: Docs
-  blog: Blog
-  community: Community
-  apps: Apps
-  userland: Userland
-  releases: Releases
+  # docs: Docs
+  # blog: Blog
+  # community: Community
+  # apps: Apps
+  # userland: Userland
+  # releases: Releases
+  projects: Projects
   contact: Contact
 
 electron_is_easy:
-  title: It's easier than you think
+  title: Our vision
   description:
-    If you can build a website, you can build a desktop app. Electron is a
-    framework for creating native applications with web technologies like
-    JavaScript, HTML, and CSS. It takes care of the hard parts so you can
-    focus on the core of your application.
-  video_link: Watch the video
+      Our vision is to bring Natural Language Processing capabilities in Hebrew to a level on par with international industry standards, keeping up with state-of-the-art techniques by providing open source implementations to new algorithms and tools, and making these capabilities publicly available for both public and commercial use.
 
 web_technologies:
-  title: Web Technologies
+  title: An online community
   description:
-    Electron uses Chromium and Node.js so you can build your app with HTML,
-    CSS, and JavaScript.
+	Our activity is done online, through our Facebook group, GitHub organization and small teams working on high-impact projects.
 
 open_source:
   title: Open Source
-  desciption:
-    Electron is an open source project maintained by GitHub and an active
-    community of contributors.
+  description:
+	NLPH is open source by agenda, and we make sure all resources and code we help release are made available under permissive open source or open data licenses.
 
 cross_platform:
-  title: Cross Platform
+  title: 
   description:
     Compatible with Mac, Windows, and Linux, Electron apps build and run on
     three platforms.
 
 benefits:
-  hard_parts_made_easy: The hard parts made easy
-  automatic_updates: Automatic updates
-  native_menus_and_notifications: Native menus & notifications
-  crash_reporting: Crash reporting
-  debugging_and_profiling: Debugging & profiling
-  windows_installers: Windows installers
+  # hard_parts_made_easy: The Community Tagging Project
+  automatic_updates: The Community Tagging Project
+  native_menus_and_notifications: Common Voice Hebrew
+  # crash_reporting: Crash reporting
+  # debugging_and_profiling: Debugging & profiling
+  windows_installers: Released Datasets
 
 get_started:
-  title: Get started
+  title: How Can I Help?
   description:
+    <ul>
+        <li>Coffee</li>
+        <li>Tea</li>
+        <li>Milk</li>
+    </ul>
+    The <a href="https://github.com/electron/electron-api-demos">Electron API Demos app</a>
+    interactively demonstrates the most important features of the Electron API.
+    See what's possible with Electron with sample code and helpful tips for
+    building your app.
     To get started with Electron, check out the resources below. Learn how
     to wrap your web app with Electron, access all the APIs, and generate
     installers.
