@@ -3,6 +3,8 @@ tagline: |+
     Open Natural Language Processing in Hebrew
 
 nav:
+  projects: Projects
+  contact: Contact
   docs: Docs
   blog: Blog
   community: Community
@@ -10,7 +12,6 @@ nav:
   userland: Userland
   releases: Releases
   projects: Projects
-  contact: Contact
 
 electron_is_easy:
   title: Our vision
